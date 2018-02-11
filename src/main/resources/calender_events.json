@@ -1,0 +1,57 @@
+{"list":[{
+  "eventDate":"2018-01-01'T'10:10:10",
+  "events":[{
+    "description":"des",
+    "time":"10:29",
+    "color":1
+  },
+  {
+    "description":"des",
+    "time":"10:29",
+    "color":1
+  },
+  {
+    "description":"des",
+    "time":"10:29",
+    "color":1
+  }]
+},
+
+{
+  "eventDate":"2018-01-01'T'10:10:10",
+  "events":[{
+    "description":"des",
+    "time":"10:29",
+    "color":1
+  },
+  {
+    "description":"des",
+    "time":"10:29",
+    "color":1
+  },
+  {
+    "description":"des",
+    "time":"10:29",
+    "color":1
+  }]
+},
+{
+  "eventDate":"2018-01-01'T'10:10:10",
+  "events":[{
+    "description":"des",
+    "time":"10:29",
+    "color":1
+  },
+  {
+    "description":"des",
+    "time":"10:29",
+    "color":1
+  },
+  {
+    "description":"des",
+    "time":"10:29",
+    "color":1
+  }]
+}]
+  
+}
